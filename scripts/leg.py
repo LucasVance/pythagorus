@@ -1,0 +1,1 @@
+# Script to find the last leg of a right triangle
