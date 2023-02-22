@@ -32,4 +32,4 @@ elif to_find == "leg2":
 elif to_find == "hypotenuse":
     print(math.sqrt((leg1 * leg1) + (leg2 * leg2)))
 else:
-    print("u did something wrong and ima let u figure it out. not me.")
+    print("something went wrong and ima let u figure it out. not me.")
