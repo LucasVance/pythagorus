@@ -15,7 +15,7 @@ elif leg2 == "":
 elif hypotenuse == "":
     toFind = "hypotenuse"
 else:
-    print("An error ocurred")
+    print("An error occurred")
 
 print("Finding " + toFind + ":")
 
